@@ -29,5 +29,5 @@ function greet(name) {
   // This function logs a greeting to the console.
   console.log(`Hello, ${name}!`);
 }
-
+```
 greet('World');
